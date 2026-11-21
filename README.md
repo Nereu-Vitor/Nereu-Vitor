@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Nereu Vítor
 
-<!--
-**Nereu-Vitor/Nereu-Vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Sistemas para Internet** com foco em desenvolvimento **back-end** (APIs REST, regras de negócio e banco de dados).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stacks & Ferramentas
+
+![Minhas Stacks](https://skillicons.dev/icons?i=java,spring,mysql,linux,git,github,vscode)
+
+---
+
+### O que estou focando agora
+* Evoluindo no ecossistema **Java** e **Spring Boot** com bancos de dados relacionais.
+* Aplicando na prática o que desenvolvo na faculdade e em projetos pessoais.
+
+---
+
+### Repositórios em destaque
+* **Curso-Java-Loiane** — Estudos e exercícios práticos da base de Java.
+* **localeats** — Projeto de aplicação web para pedidos.
